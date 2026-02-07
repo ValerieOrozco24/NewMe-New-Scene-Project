@@ -32,7 +32,7 @@ Write a description of what you included in your 2025 recap scene (LastYear)
 ## Description of 2026 goals
 
 Write a description of what you included in your 2026 goals scene (ThisYear)
-- I did not write a ThisYear class but had I put one, I would have used some photos that I've taken with friends and family so far this year. I would also add some inspiration for my goals this year. 
+- I did not write a ThisYear class however I did make the mistake of putting down the title of the java file as ThisYear rather than LastYear in my repository, so i do apologize if that causes any confusion. However had I put one, I would have used some photos that I've taken with friends and family so far this year. I would also add some inspiration for my goals this year which is to thrive while also enjoying and having fun. 
 ## Scene API Usage
 
 Describe how you were able to use the various methods from the Scene API to create your animation. 
